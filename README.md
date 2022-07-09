@@ -1,15 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=welcome🥂&animation=twinkling&fontSize=70)
 
 ---
-### 🤔 part1
-
-
-### 📑 part2
-
-
-### ✏ part3
-
----
 
 ### ⚡ Stat
 [![mean2J's GitHub stats](https://github-readme-stats.vercel.app/api?username=mean2J&hide=stars&show_icons=true&&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
